@@ -1,0 +1,9 @@
+{
+    "account":"sf account",
+    "user":"sf_user",
+    "password":"sf_password",
+    "warehouse": "sf_warehouse",
+    "database": "sf_database",
+    "schema": "sf_schema",
+    "rol": "sf_role"
+      }
