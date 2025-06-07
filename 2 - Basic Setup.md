@@ -2,4 +2,6 @@ This file contains the basic setup for your Snowflake environment so that you ca
 
 A special mention about the account: you can find this in your Snowflake console:
 
-![alt text](image-1.png)
+![alt text](images/account_identifier.png)
+
+![alt text](images/git_Repo.png)
