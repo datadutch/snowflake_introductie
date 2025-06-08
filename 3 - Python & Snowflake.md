@@ -10,4 +10,6 @@ The config.json contains key-value pairs. Replace the values with the ones you c
 
 Run the Python script:
 
-python snowflake_current_user.py
+python snowflake_current_user.py -> it will show you the user that is logged in
+
+More detail here: https://medium.com/@bidutch/python-and-snowflake-using-a-configuration-file-69fae82e54f5
